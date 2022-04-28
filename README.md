@@ -1,2 +1,6 @@
 # pf.exe
-Send process to foreground
+Send single process to foreground
+
+# Usage
+
+```pf.exe "<name of process>"```
